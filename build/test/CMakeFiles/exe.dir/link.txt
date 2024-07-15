@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/exe.dir/main.cpp.o -o /home/ubuntu/C++/Json-linux/bin/exe   -L/home/ubuntu/C++/Json-linux/lib  -Wl,-rpath,/home/ubuntu/C++/Json-linux/lib /home/ubuntu/C++/Json-linux/lib/libjson.so
